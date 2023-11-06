@@ -1,0 +1,17 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+
+.logo{
+    height: 50px;
+}
+
+.iniciarSesion{
+  width: 100%;
+  display: flex;
+  justify-content: end;
+  button{
+    width: 100px;
+    margin:5px;
+  }
+}
